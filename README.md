@@ -1,1 +1,2 @@
-# to-do-list
+# Todo API
+This repo contains Todo API.
